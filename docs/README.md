@@ -1,6 +1,6 @@
 ## Hooray IPTV Online Document
 
-> A magical documentation site generator.
+> Latest version 2.0.24 
 
 ## What can this document do?
 
