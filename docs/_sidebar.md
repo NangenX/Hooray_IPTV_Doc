@@ -2,7 +2,7 @@
 
   - [Quick start](quickstart.md)
 
-- Live & Catch-up & Video On Demand Setting
+- Live & Video On Demand Setting
 
   - [Live Setting](live-setting.md)
   - [Themes](themes.md)
