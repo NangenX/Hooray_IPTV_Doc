@@ -1,6 +1,6 @@
-## Hooray IPTV Online Document
+# Hooray IPTV Online Document
 
-> Latest version 2.0.24 
+> This document base on hooray iptv platform version 2.0.24. 
 
 ## What can this document do?
 
