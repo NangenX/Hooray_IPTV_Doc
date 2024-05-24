@@ -23,7 +23,7 @@ Prepare a laptop or computer, the laptop or computer can access the IPTV platfor
 ![Login Page](_images/1.png)
 
 
-:warning: **Warning:** `if you enter the address can not be accessed troubleshooting as follows:`
+:warning: **Warning:** if you enter the address can not be accessed troubleshooting as follows:
 
  1. <font color="red"> Make sure the network cable is correctly linked </font>
 
