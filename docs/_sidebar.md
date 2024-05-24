@@ -1,13 +1,10 @@
 - Getting started
 
   - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
 
-- Customization
+- Live & Catch-up & Video On Demand Setting
 
-  - [Configuration](configuration.md)
+  - [Live Setting](live-setting.md)
   - [Themes](themes.md)
   - [List of Plugins](plugins.md)
   - [Write a Plugin](write-a-plugin.md)
