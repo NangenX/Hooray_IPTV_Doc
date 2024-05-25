@@ -22,7 +22,6 @@ By using this manual, you will gain a comprehensive understanding of the feature
 
 ![Login Page](_images/1.png)
 
-:warning: **Warning: If you enter the address can not be accessed troubleshooting as follows:**
-
+!> :warning: **Warning: If you enter the address can not be accessed troubleshooting as follows:**
 1. <font color="red"> Make sure the network cable is correctly linked </font>
 2. <font color="red"> Make sure the laptop or desktop can ping the IPTV platform IP </font>
