@@ -5,7 +5,7 @@
 - Live & Video On Demand Setting
 
   - [Live Setting](live-setting.md)
-  - [Themes](themes.md)
+  - [VOD Setting](vod_setting.md)
   - [List of Plugins](plugins.md)
   - [Write a Plugin](write-a-plugin.md)
   - [Markdown configuration](markdown.md)
@@ -24,3 +24,4 @@
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
+S
