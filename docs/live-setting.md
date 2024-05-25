@@ -68,4 +68,4 @@ When the `Stream Record` is enabled, the streaming media core will record and st
 
 2. <font color="red">**Record Days**</font>: In this input box, enter the number of days for catch-up. The system will roll the corresponding number of days of recording based on the input, which will be used for catch-up. Before setting this, it is necessary to confirm whether the catch-up server has sufficient disk space for catch-up recording.
 
-:warning: **Warning: When you enable the recording, you need to confirm whether the current server has enough storage space to store the catchup files, please consult Hooray technical engineers before starting the relevant matters.**
+!> :warning: **Warning: When you enable the recording, you need to confirm whether the current server has enough storage space to store the catchup files, please consult Hooray technical engineers before starting the relevant matters.**
