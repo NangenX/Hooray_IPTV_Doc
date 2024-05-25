@@ -2,9 +2,9 @@
 
 >Introduction
 
-![Login Page](_images/2.png)
+![Program Menu](_images/2.png)
 
-The Program menus allows administrators to create, modify, and delete `live channels` and `catchup` setting. Administrators can upload corresponding images to match the covers of live channels. 
+The Program menus allows administrators to create, modify, and delete `live channels` and `catchup` setting. Administrators can upload corresponding images to match the covers of live channels.
 
 ## Live Category
 
@@ -17,6 +17,7 @@ In the Live Category feature, administrators can create, modify, and delete cate
 Administrators can create new live categories by clicking on the `Add` button. Each channel category needs to be associated with a corresponding live channel source; each channel category can upload poster to specify their different.
 
 ![Login Page](_images/4.png)
+
 ![Login Page](_images/4-1.png)
 
 ## Live Program
@@ -33,7 +34,7 @@ Second, you need to ensure that your live channel source complies with Hooray IP
 
 If your program source does not comply with Hooray IPTV's input standards and protocols, the system will not function correctly. In this case, you may need to look for other live channel sources or seek hooray team with professional technical support to solve the problem.
 
-Administrators can create new live channel by clicking on the `Add` button. 
+Administrators can create new live channel by clicking on the `Add` button.
 
 ![Live Channel Add Detail](_images/6.png)
 
@@ -50,4 +51,14 @@ Administrators can create new live channel by clicking on the `Add` button.
 6. <font color="red">**Source Methods**</font>: When the live signal source comes from a third-party encoder that supports RTMP or from the Hooray transcoding server, the `PUSH` method needs to be used to obtain the input program source. If it is necessary to obtain the RTMP input program source from another third-party RTMP server, the `PULL` or `PUSH` method should be selected based on the server situation.
 
 # Catch-up Setting
+
+>Introduction
+
+![Catchup Setting](_images/6-1.png)
+
+When the `Stream Record` is enabled, the streaming media core will record and store the live program as a corresponding file on an hourly basis starting from the next hour to provide the subscribers with the corresponding file to play on their terminals. The `Record Days` set on the management interface is the validity period for the storage of the catchup files, and when the files time exceeds the validity period, the system will delete the catcup files which is marked as expired.
+
+1. <font color="red">**Stream Record**</font>: This option controls the catch-up enablement for the live channel source. When checked, it enables the catch-up of the live channel source. If the live channel source has multiple resolutions profile, catch-up recording for multiple resolutions will also be simultaneously enabled. It is necessary to ensure that there is sufficient disk space available during the recording process; otherwise, it may affect the live stream.
+
+2. <font color="red">**Record Days**</font>: In this input box, enter the number of days for catch-up. The system will roll the corresponding number of days of recording based on the input, which will be used for catch-up. Before setting this, it is necessary to confirm whether the catch-up server has sufficient disk space for catch-up recording.
 
