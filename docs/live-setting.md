@@ -22,6 +22,10 @@ Administrators can create new live categories by clicking on the `Add` button. E
 
 4. <font color="red">**Live Program Select**</font>: To `select` the corresponding live program to the specified live category, the administrator needs to select the corresponding live program to the current live category, and the selected live program will be displayed under the corresponding category in the terminal live category menu.
 
+!>  **Warning: Live Category upload image size should 300*210**
+
+![Live Category Image Sample](_images/live_category_sample.jpg)
+
 ## Live Program
 
 >Introduction
@@ -30,9 +34,9 @@ Administrators can create new live categories by clicking on the `Add` button. E
 
 In the "Live Program" section, you need to make some critical settings. This step is crucial because your input program source must strictly comply with Hooray IPTV's input standards and protocols.
 
-First, you need to determine whether your program source meets Hooray IPTV's input standards. These standards may include specific file formats, encoding methods, resolutions, etc. If your program source does not meet these standards, you may need to use a transcoding tool to convert it to a format that complies with the standards.
+<font color="red"> First </font>, you need to determine whether your program source meets Hooray IPTV's input standards. These standards may include specific file formats, encoding methods, resolutions, etc. If your program source does not meet these standards, you may need to use a transcoding tool to convert it to a format that complies with the standards.
 
-Second, you need to ensure that your live channel source complies with Hooray IPTV's protocol. This may include how to transmit data, how to handle errors, how to ensure data integrity, etc.
+<font color="red"> Second </font>, you need to ensure that your live channel source complies with Hooray IPTV's protocol. This may include how to transmit data, how to handle errors, how to ensure data integrity, etc.
 
 If your program source does not comply with Hooray IPTV's input standards and protocols, the system will not function correctly. In this case, you may need to look for other live channel sources or seek hooray team with professional technical support to solve the problem.
 
