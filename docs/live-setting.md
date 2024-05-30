@@ -22,7 +22,7 @@ Administrators can create new live categories by clicking on the `Add` button. E
 
 4. <font color="red">**Live Program Select**</font>: To `select` the corresponding live program to the specified live category, the administrator needs to select the corresponding live program to the current live category, and the selected live program will be displayed under the corresponding category in the terminal live category menu.
 
-!>  **Warning: Live Category upload image size should 300*210**
+!>  **Warning: Live Category upload image size should 300x210**
 
 ![Live Category Image Sample](_images/live_category_sample.jpg)
 
