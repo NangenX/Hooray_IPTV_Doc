@@ -15,6 +15,10 @@
 
   - [Analysis](analysis.md)
 
+- Client Management Setting
+
+  - [Client Manage](client_manage.md)
+
 - Guide
 
   - [Deploy](deploy.md)
