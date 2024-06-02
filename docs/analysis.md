@@ -14,3 +14,5 @@ In Progmra Analysis, administrators can view the number of live and VOD broadcas
 >Introduction
 
 ![Progmra Analysis](_images/13.png)
+
+Sell Record displays the subscriber's package purchase history, including third-party API purchases and administrator-activated package purchases. The administrator can query the record information of the specific subscriber or the time of purchase by the query conditions.
