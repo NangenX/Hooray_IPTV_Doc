@@ -11,6 +11,10 @@
 
   - [Package Setting](package_setting.md)
 
+- Analysis Setting
+
+  - [Analysis](analysis.md)
+
 - Guide
 
   - [Deploy](deploy.md)
@@ -23,4 +27,3 @@
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
-S
