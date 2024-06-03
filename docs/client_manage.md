@@ -25,3 +25,24 @@ Press `Add` button to create the `Client Type`
 
 ![Client Manage](_images/15.png)
 
+`Client Manage`is the core page for managing subscribers, which is responsible for creating, editing and deleting subscriber accounts, opening and closing subscriber account status, viewing, purchasing and canceling subscriber packages, deleting and binding subscriber login device information, and a series of other operations.
+
+### Cient Add/Edit/Delete
+
+Press `Add` button to create new client account from web.
+
+![Client Manage-Add](_images/15-1.png)
+
+1. <font color="red">**Client Type Name**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
+
+2. <font color="red">**Description**</font>: In `Description`, used to describe the different client types.
+
+3. <font color="red">**Client Type Name**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
+
+4. <font color="red">**Description**</font>: In `Description`, used to describe the different client types.
+
+5. <font color="red">**Client Type Name**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
+
+6. <font color="red">**Description**</font>: In `Description`, used to describe the different client types.
+
+7. <font color="red">**Client Type Name**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
