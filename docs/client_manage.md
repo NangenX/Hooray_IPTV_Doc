@@ -33,16 +33,17 @@ Press `Add` button to create new client account from web.
 
 ![Client Manage-Add](_images/15-1.png)
 
-1. <font color="red">**Client Type Name**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
+1. <font color="red">**Client Name**</font>:  when the administrator creates a subscriber account, the `Client Name` is the login account.
 
-2. <font color="red">**Description**</font>: In `Description`, used to describe the different client types.
+2. <font color="red">**Password**</font>: The `Password` is used to log on to the IPTV service.
 
-3. <font color="red">**Client Type Name**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
+3. <font color="red">**Mobile Number**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
 
-4. <font color="red">**Description**</font>: In `Description`, used to describe the different client types.
+4. <font color="red">**User ID**</font>: In `Description`, used to describe the different client types.
 
-5. <font color="red">**Client Type Name**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
+5. <font color="red">**Home Address**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
 
-6. <font color="red">**Description**</font>: In `Description`, used to describe the different client types.
+6. <font color="red">**Client Types**</font>: In `Description`, used to describe the different client types.
 
-7. <font color="red">**Client Type Name**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
+7. <font color="red">**Numbers of Terminal**</font>: In `Client Type Name`, the name used to distinguish between different subgroups.
+

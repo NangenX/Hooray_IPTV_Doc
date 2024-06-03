@@ -68,6 +68,8 @@ Administrators can create new `movie` by clicking on the `Add` button.
 
 In VOD Upload page, administrator can upload, delete movie files, movie file format must comply with Hooray VOD standard. Movie file video encoding format is `HEVC/H.254/AV1`, audio encoding is `AAC/MP3/AC-3/E-AC-3/FLAC/DTS`, upload movie file format <font color="red">MUST BE</font> `.MP4`.
 
+!> :warning: **Warning: Uploaded file names `MUST` be free of special symbols and spaces.**
+
 Click `Choose File` will popup the upload windows, select the movie file drag to window or select the folder to upload, When the file has been uploaded, the upload page automatically refreshes the uploaded file. and displayed in the upload list.
 
 ![Vod Upload](_images/10-1.png)
