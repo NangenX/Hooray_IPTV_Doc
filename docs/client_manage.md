@@ -1,5 +1,6 @@
 # Client Management Setting
 
+>Introduction
 
 The `Client menu` allows administrators to create, modify, and delete `Client Type`, create and control the client account in `Client Manage`, and check the client operate status in `Client Status`
 
@@ -70,6 +71,8 @@ Press `Edit` button to edit the selected account from client list, in `Edit` pag
 
 ![Client Manage-Delete](_images/icon/icon-6.png)
 
+Clicking on the `Delete` button will delete the client account.
+
 !> :warning: **Warning: Accounts cannot be retrieved after deletion.**
 
 
@@ -109,4 +112,14 @@ Click the `Login Information` button to enter the page to view the user's login 
 ![Client Manage-Purchase History](_images/15-4.png)
 
 In this page, the administrator can view the online and offline status of the device and delete the corresponding login device information.
+
+## Online Status
+
+>Introduction
+
+![Online Status](_images/15-6.png)
+
+![Online Status-Detail](_images/15-7.png)
+
+Administrators can view the current online account status and the number of device logins in `Online Status`, and click the corresponding account to view the operation records and online hours of each device under the account.
 
