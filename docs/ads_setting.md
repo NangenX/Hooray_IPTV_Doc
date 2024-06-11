@@ -114,9 +114,9 @@ After clicking the `Add` or `Edit` button, the administrator enters the Create o
 
 6. <font color="red">**Show Position**</font>: In `Show Position`, administrators need to choose the location of the advertisement picture insertion, currently support the left side, the right side, top side and bottom side insertion, the effect is as shown in the figure.
 
-[Advertisement-Super Ads-Side Ads-Right ](_images/16-5.png ':size=40%') ![Advertisement-Super Ads-Side Ads-Left ](_images/16-6.png ':size=40%')
+![Advertisement-Super Ads-Side Ads-Right ](_images/16-5.png ':size=50%') ![Advertisement-Super Ads-Side Ads-Left ](_images/16-6.png ':size=50%')
 
-![Advertisement-Super Ads-Side Ads-Top ](_images/16-7.png ':size=10%') ![Advertisement-Super Ads-Side Ads-Bottom ](_images/16-8.png ':size=10%')
+![Advertisement-Super Ads-Side Ads-Top ](_images/16-7.png ':size=50%') ![Advertisement-Super Ads-Side Ads-Bottom ](_images/16-8.png ':size=50%')
 
 6. <font color="red">**Interval**</font>: In `Play Setting`, administrator can select Manual boardcast or Random boardcast, when selecting Manual boardcast, administrator needs to select the advertisement material to be played in Material selection box, if selecting Random boardcast, the terminal will automatically select the advertisement material to be played.
 
