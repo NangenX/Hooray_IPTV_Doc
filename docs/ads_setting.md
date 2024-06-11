@@ -61,14 +61,82 @@ After clicking the `Add` or `Edit` button, the administrator enters the Create o
 
 1. <font color="red">**Ads Name**</font>: The `Ads Name` is used to distinguish between different ads.
 
-2. <font color="red">**Clients**</font>: The `Client` selects the subscriber group, and the checked group will enable this ad to play.
+2. <font color="red">**Clients**</font>: The `Client` selects the subscriber group, and the checked group will enable this advertisement to play.
 
 3. <font color="red">**Ads Type**</font>: Here's `Boot Ads` as an example
 
-4. <font color="red">**Material Type**</font>: 
+4. <font color="red">**Material Type**</font>: In `Material Type`, Boot Ads supports image and video materials, and selecting the corresponding Type indicates the type that the terminal needs to play when opening the APP.
 
-5. <font color="red">**Material List**</font>: 
+5. <font color="red">**Material List**</font>: In the `Material List`, select the corresponding advertisement material by checking it.
 
-6. <font color="red">**Date**</font>: 
+6. <font color="red">**Date**</font>: In `Date`, the administrator can specify the start date and end date of the advertisement.
 
-7. <font color="red">**Time**</font>: 
+7. <font color="red">**Time**</font>: In `Time`, the administrator can specify the start time and end time of the advertisement.
+
+8. <font color="red">**Publish**</font>: After checking `Pulish`, the advertisement will start to send, if Date and Time have been set, then the advertisement will be processed according to the Date and Time that has been set.
+
+
+>Introduction **Commercial Ads Setting**
+
+1. <font color="red">**Ads Name**</font>: The `Ads Name` is used to distinguish between different ads.
+
+2. <font color="red">**Clients**</font>: The `Client` selects the subscriber group, and the checked group will enable this advertisement to play.
+
+3. <font color="red">**Ads Type**</font>: Here's `Commercial Ads` as an example
+
+4. <font color="red">**Material Type**</font>: In `Material Type`, Commercial Ads Only supports video.
+
+5. <font color="red">**Program Setting**</font>: In `Program Setting`, In Program Setting, the administrator needs to select whether the advertisement is to be used for live or VOD.
+
+6. <font color="red">**Play Setting**</font>: In `Play Setting`, administrator can select Manual boardcast or Random boardcast, when selecting Manual boardcast, administrator needs to select the advertisement material to be played in Material selection box, if selecting Random boardcast, the terminal will automatically select the advertisement material to be played.
+
+7. <font color="red">**Material**</font>: In the `Material`, select the corresponding advertisement material by checking it.
+
+8. <font color="red">**Date**</font>: In `Date`, the administrator can specify the start date and end date of the advertisement.
+
+9. <font color="red">**Time**</font>: In `Time`, the administrator can specify the start time and end time of the advertisement.
+
+10. <font color="red">**Publish**</font>: After checking `Pulish`, the advertisement will start to send, if Date and Time have been set, then the advertisement will be processed according to the Date and Time that has been set.
+
+11. <font color="red">**Turn on channel switching**</font>: In `Turn on channel switching`, Commercial Ads play when a subscriber switches live channel in a live program or switches VOD in VOD program.
+
+>Introduction **Side Ads Setting**
+
+1. <font color="red">**Ads Name**</font>: The `Ads Name` is used to distinguish between different ads.
+
+2. <font color="red">**Clients**</font>: The `Client` selects the subscriber group, and the checked group will enable this advertisement to play.
+
+3. <font color="red">**Ads Type**</font>: Here's `Side Ads` as an example
+
+4. <font color="red">**Material Type**</font>: In `Material Type`, Side Ads Only supports image.
+
+5. <font color="red">**Program Setting**</font>: In `Program Setting`, In Program Setting, the administrator needs to select whether the advertisement is to be used for live or VOD.
+
+6. <font color="red">**Show Position**</font>: In `Show Position`, administrators need to choose the location of the advertisement picture insertion, currently support the left side, the right side, top side and bottom side insertion, the effect is as shown in the figure.
+
+<output data-lang="output">
+  <div style="display: flex;">
+    <figure v-for="image in images" style="flex: 4; text-align: center;">
+      <img :src="_images/16-5.png">
+      <figcaption>cctv</figcaption>
+    </figure>
+  </div>
+</output>
+
+
+<!--![Advertisement-Super Ads-Side Ads-Right ](_images/16-5.png)
+![Advertisement-Super Ads-Side Ads-Left ](_images/16-6.png)
+![Advertisement-Super Ads-Side Ads-Top ](_images/16-7.png)
+![Advertisement-Super Ads-Side Ads-Bottom ](_images/16-8.png)-->
+
+6. <font color="red">**Interval**</font>: In `Play Setting`, administrator can select Manual boardcast or Random boardcast, when selecting Manual boardcast, administrator needs to select the advertisement material to be played in Material selection box, if selecting Random boardcast, the terminal will automatically select the advertisement material to be played.
+
+7. <font color="red">**Material**</font>: In the `Material`, select the corresponding advertisement material by checking it.
+
+8. <font color="red">**Date**</font>: In `Date`, the administrator can specify the start date and end date of the advertisement.
+
+9. <font color="red">**Time**</font>: In `Time`, the administrator can specify the start time and end time of the advertisement.
+
+10. <font color="red">**Publish**</font>: After checking `Pulish`, the advertisement will start to send, if Date and Time have been set, then the advertisement will be processed according to the Date and Time that has been set.
+
+11. <font color="red">**Turn on channel switching**</font>: In `Turn on channel switching`, Commercial Ads play when a subscriber switches live channel in a live program or switches VOD in VOD program.S

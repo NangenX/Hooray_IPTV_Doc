@@ -19,6 +19,10 @@
 
   - [Client Manage](client_manage.md)
 
+  - Ads Settings
+
+  - [Ads Setting](ads_setting.md)
+
 - Guide
 
   - [Deploy](deploy.md)
