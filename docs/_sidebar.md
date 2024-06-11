@@ -19,19 +19,10 @@
 
   - [Client Manage](client_manage.md)
 
-  - Ads Settings
+- Ads Settings
 
   - [Ads Setting](ads_setting.md)
 
-- Guide
+- Push Message Setting
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+  - [Push Message Setting](message.md)
