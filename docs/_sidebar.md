@@ -26,3 +26,7 @@
 - Push Message Setting
 
   - [Push Message Setting](message.md)
+
+- Online Shopping Setting
+
+  - [Online Shopping Setting](shopping.md)
