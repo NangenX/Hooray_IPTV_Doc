@@ -114,15 +114,12 @@ After clicking the `Add` or `Edit` button, the administrator enters the Create o
 
 6. <font color="red">**Show Position**</font>: In `Show Position`, administrators need to choose the location of the advertisement picture insertion, currently support the left side, the right side, top side and bottom side insertion, the effect is as shown in the figure.
 
-<output data-lang="output">
-  <div style="display: flex;">
-    <figure v-for="image in images" style="flex: 4; text-align: center;">
-      <img :src="_images/16-5.png">
-      <figcaption>cctv</figcaption>
-    </figure>
-  </div>
-</output>
-
+<div style="display: flex;">
+  <figure style="flex: 1;">
+    <img v-for="image in images" :src="_images/16-5.png" :title="image.title">
+    <figcaption>{{ image.title }}</figcaption>
+  </figure>
+</div>
 
 <!--![Advertisement-Super Ads-Side Ads-Right ](_images/16-5.png)
 ![Advertisement-Super Ads-Side Ads-Left ](_images/16-6.png)
