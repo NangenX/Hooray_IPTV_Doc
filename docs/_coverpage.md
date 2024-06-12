@@ -1,12 +1,5 @@
-![logo](_media/icon.svg)
+![logo](_media/logo.png)
 
-# docsify <small>4.13.1</small>
+# Hooray Vision IPTV Manual <small>1.0.0</small>
 
-> A magical documentation site generator.
-
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
 [Getting Started](#docsify)
