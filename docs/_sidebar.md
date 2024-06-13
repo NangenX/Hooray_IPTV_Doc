@@ -30,3 +30,7 @@
 - Easy Online Shopping Setting
 
   - [Online Shopping Setting](shopping.md)
+
+- Authority Setting
+
+  - [Authority Setting](authority.md)
