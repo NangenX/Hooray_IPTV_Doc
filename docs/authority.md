@@ -44,7 +44,6 @@ Press `Add` button to create the manager account
 
 <font color="red">**Phone Number**</font>: In `Phone Number`, the administrator fills in the corresponding mobile phone number, which has clarified the contact information of the person to whom the account belongs.
 
-
 <font color="red">**Manager Role**</font>: In `Manager Role`, the administrator drops down to select the created management role, and the classification corresponds to the role given to that administrator account.
 
 <font color="red">**Remarks**</font>: In `Remark`, the administrator fills in the information that needs to be remarked for that account.
