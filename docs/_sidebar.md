@@ -38,3 +38,8 @@
 - System Basic Settings
 
   - [System Basic Settings](system.md)  
+
+- IPTV Application Setting
+
+  - [IPTV Application Setting](system.md)  
+
